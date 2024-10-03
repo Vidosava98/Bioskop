@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+.Card{
+    border-style:outset;
+    height:100px;
+    width:20%;
+    font-family: fantasy;
+    font-size: xx-large;
+    text-align: center;
+}
+.Poz{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    height:100%; 
+    width:100%; 
+    background-color:azure; 
+    background-image:url('https://img.freepik.com/free-photo/movie-lettering-yellow-background-with-copy-space_23-2148425107.jpg?size=626&ext=jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+<div class="text-center">
+    <h1 class="display-4">VidaGrad</h1>
+    <p>If you don't know me <a href="https://www.linkedin.com/in/vidosava-arsi%C4%87-7019b9228/">Here you can find me!</a>.</p>
+    <br/>
+</div>
+<div class="Poz">
+    @foreach (var c in ViewBag.MyList) // Print the list
+    {
+        <div class="Card"><a href="@Url.Action("MovieView", "Home", new { name = @c })">@c</a></div>
+    }
+</div>
