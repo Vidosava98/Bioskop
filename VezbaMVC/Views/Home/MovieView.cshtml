@@ -21,6 +21,9 @@
     }
 </style>
 <h1>@ViewBag.Name movies:</h1>
+
+<div id="movieFormContainer"></div>
+
 <table>
     <tr>
         <th>
@@ -36,9 +39,35 @@
     @foreach (var el in ViewBag.Movies)
     {
         <tr>
-            <td><a href="@Url.Action("MovieForm", "Home", new {title = @el.Title})">@el.Title</a></td>
+            <td><a href="#" onclick="loadMovieForm('@el.Title'); return false;">@el.Title</a></td>
             <td>@el.Description</td>
-            <td>@el.Author</td>
+            <td><a href="#" onclick="loadAuthor('@el.Author'); return false;">@el.Author </a></td>
         </tr>
     }
 </table>
+
+
+
+<script>
+    function loadMovieForm(title) {
+        $.ajax({
+            url: '@Url.Action("MovieForm", "Home")',
+            data: { title: title },
+            success: function (result) {
+                $('#movieFormContainer').html(result);
+            }
+        });
+    }
+    function loadAuthor(name){
+    const parts = name.split(" ");
+    const first = parts[0];
+    const last = parts[1];
+        $.ajax({
+            url: '@Url.Action("MovieFormAuthor", "Home")',
+            data: { first: first, last : last },
+            success: function (result) {
+                $('#movieFormContainer').html(result);
+            }
+        });
+    }
+</script>

@@ -22,16 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/vs_zadaci/MVC/VezbaMVC/Bioskop/VezbaMVC/Views/Home/MovieForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3ZpZUZvcm0uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/vs_zadaci/MVC/VezbaMVC/Bioskop/VezbaMVC/Views/Home/MovieView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3ZpZVZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/vs_zadaci/MVC/VezbaMVC/Bioskop/VezbaMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vs_zadaci/MVC/VezbaMVC/Bioskop/VezbaMVC/Views/Home/_AuthorForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQXV0aG9yRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vs_zadaci/MVC/VezbaMVC/Bioskop/VezbaMVC/Views/Home/_MovieForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTW92aWVGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/vs_zadaci/MVC/VezbaMVC/Bioskop/VezbaMVC/Views/Shared/Error.cshtml]

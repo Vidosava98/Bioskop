@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|d:\\vs_zadaci\\mvc\\vezbamvc\\bioskop\\vezbamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|solutionrelative:vezbamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|d:\\vs_zadaci\\mvc\\vezbamvc\\bioskop\\vezbamvc\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|solutionrelative:vezbamvc\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|d:\\vs_zadaci\\mvc\\vezbamvc\\bioskop\\vezbamvc\\views\\home\\movieview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|solutionrelative:vezbamvc\\views\\home\\movieview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|d:\\vs_zadaci\\mvc\\vezbamvc\\bioskop\\vezbamvc\\views\\home\\_movieform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|solutionrelative:vezbamvc\\views\\home\\_movieform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|d:\\vs_zadaci\\mvc\\vezbamvc\\bioskop\\vezbamvc\\views\\home\\_authorform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|solutionrelative:vezbamvc\\views\\home\\_authorform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|d:\\vs_zadaci\\mvc\\vezbamvc\\bioskop\\vezbamvc\\mongodbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|solutionrelative:vezbamvc\\mongodbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|d:\\vs_zadaci\\mvc\\vezbamvc\\bioskop\\vezbamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B430A4-E08B-488C-83AD-98BF280A78C3}|VezbaMVC\\VezbaMVC.csproj|solutionrelative:vezbamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VezbaMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VezbaMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:25:48.159Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieView.cshtml",
+              "DocumentMoniker": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Views\\Home\\MovieView.cshtml",
+              "RelativeDocumentMoniker": "VezbaMVC\\Views\\Home\\MovieView.cshtml",
+              "ToolTip": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Views\\Home\\MovieView.cshtml",
+              "RelativeToolTip": "VezbaMVC\\Views\\Home\\MovieView.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAD4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T16:37:30.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AuthorForm.cshtml",
+              "DocumentMoniker": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Views\\Home\\_AuthorForm.cshtml",
+              "RelativeDocumentMoniker": "VezbaMVC\\Views\\Home\\_AuthorForm.cshtml",
+              "ToolTip": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Views\\Home\\_AuthorForm.cshtml",
+              "RelativeToolTip": "VezbaMVC\\Views\\Home\\_AuthorForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T20:19:27.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoDbContex.cs",
+              "DocumentMoniker": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\MongoDbContex.cs",
+              "RelativeDocumentMoniker": "VezbaMVC\\MongoDbContex.cs",
+              "ToolTip": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\MongoDbContex.cs",
+              "RelativeToolTip": "VezbaMVC\\MongoDbContex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:26:55.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "VezbaMVC\\Models\\Author.cs",
+              "ToolTip": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Models\\Author.cs",
+              "RelativeToolTip": "VezbaMVC\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:06:49.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VezbaMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VezbaMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T16:52:45.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_MovieForm.cshtml",
+              "DocumentMoniker": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Views\\Home\\_MovieForm.cshtml",
+              "RelativeDocumentMoniker": "VezbaMVC\\Views\\Home\\_MovieForm.cshtml",
+              "ToolTip": "D:\\vs_zadaci\\MVC\\VezbaMVC\\Bioskop\\VezbaMVC\\Views\\Home\\_MovieForm.cshtml",
+              "RelativeToolTip": "VezbaMVC\\Views\\Home\\_MovieForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T16:40:38.655Z"
             }
           ]
         }

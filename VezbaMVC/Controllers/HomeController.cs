@@ -33,7 +33,14 @@ namespace VezbaMVC.Controllers
         {
             var movie = _context.Movie.Find(movie => movie.Title == title).FirstOrDefault();
             ViewBag.Movie = movie;
-            return PartialView();
+            return PartialView("_MovieForm", movie);
+        }
+
+        public IActionResult MovieFormAuthor(String first, String last)
+        {
+            var author = _context.Author.Find(author => author.FirstName == first && author.LastName == last).FirstOrDefault();
+            ViewBag.Author = author;
+            return PartialView("_AuthorForm", author);
         }
         public IActionResult Privacy()
         {

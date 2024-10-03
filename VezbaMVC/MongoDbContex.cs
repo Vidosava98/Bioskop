@@ -13,5 +13,6 @@ namespace VezbaMVC
         }
 
         public IMongoCollection<Models.Movie> Movie => _database.GetCollection<Models.Movie>("Film");
+        public IMongoCollection<Models.Author> Author => _database.GetCollection<Models.Author>("Author");
     }
 }
