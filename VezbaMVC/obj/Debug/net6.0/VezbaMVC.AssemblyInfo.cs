@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VezbaMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a7670f129ef576c511579abdbcd7582a8d9b0a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0910169bb588b0b3a727d67470449dd9bb9da4b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("VezbaMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VezbaMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

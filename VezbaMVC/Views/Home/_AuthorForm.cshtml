@@ -2,6 +2,8 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @model Author
+
+@if(ViewBag.Author.FirstName != null){
 <div id="divForma" style="text-align:center; border-style:groove;">
     <h1></h1>
     <div id="teloForme">
@@ -9,4 +11,9 @@
         <p><b>Ime:</b>  @ViewBag.Author.FirstName</p>
         <p><b>Prezime:</b>  @ViewBag.Author.LastName</p>
     </div>
-</div>
+ </div>
+}
+else
+{
+ <div>b</div>  
+}
